@@ -50,4 +50,4 @@ jobs:
           app-name: 'DanielandMirandacorp'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FFE685DFECB4884BD98A7EE5B0BA96D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC8E744DB6414929A2AC2E90A122CD25 }}
